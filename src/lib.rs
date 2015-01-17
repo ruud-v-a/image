@@ -5,6 +5,7 @@
 #![crate_name = "image"]
 #![crate_type = "rlib"]
 
+#![allow(unstable)] // TODO: DO NOT COMMIT
 #![warn(missing_docs)]
 #![warn(unused_qualifications)]
 #![warn(unused_typecasts)]
